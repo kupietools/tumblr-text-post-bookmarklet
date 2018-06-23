@@ -16,7 +16,7 @@ If you don’t know how to create a bookmarklet, ~~dragging [this link](javascri
 
 If you have text selected on the page, it will include that text as the body of the post. (Be careful, if your text is longer than the maximum allowable length of an URL, the share won’t work.)
 
-#I AM
-Michael E. Kupietz, FileMaker Pro Consultant
-https://www.kupietz.com
+# I AM
+Michael E. Kupietz, FileMaker Pro Consultant    
+https://www.kupietz.com    
 github.com/kupietools
